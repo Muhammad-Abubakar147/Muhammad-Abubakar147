@@ -143,7 +143,7 @@ Some skills and tools which iam using ..
 # 🔗Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/muhammad-abubakar-878530305/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
