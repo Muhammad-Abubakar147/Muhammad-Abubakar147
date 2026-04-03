@@ -139,7 +139,8 @@ Some skills and tools which iam using ..
 </tr>
 
 </table>
-# 🔗 Connect with Me
+
+# 🔗Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
