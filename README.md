@@ -140,7 +140,7 @@ Some skills and tools which iam using ..
 
 </table>
 
-# 🔗Connect with me
+# 🔗Connect with me..
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-abubakar-878530305/">
