@@ -143,18 +143,18 @@ Some skills and tools which iam using ..
 # 🔗Connect with me..
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abubakar-878530305/">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
   <a href="https://github.com/Muhammad-Abubakar147">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-</p>
-<a href="mailto:brandmirza702@gmail.com">
+
+  <a href="mailto:brandmirza702@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+</p>
 <!-- 🔥 PROFILE HEADER -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abubakar147&theme=dark" />
