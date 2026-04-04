@@ -11,7 +11,7 @@
 
 I am a passionate Zoologist with a strong interest in **Artificial Intelligence, Machine Learning, and Deep Learning** .
 
-I combine my Biological knowledge with modern technology to explore intelligent solutions. 
+I combine my Biological knowledge with modern technology to explore intelligent solutions
 I have experience in **web development and data science**, and I continuously learn and build innovative projects using AI tools and programming...
 
 ---
