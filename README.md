@@ -156,7 +156,7 @@ Some skills and tools which iam using ..
   </a>
 </p>
 <!-- 🔥 PROFILE HEADER -->
-## github Stats📈..
+##github Stats📈..
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abubakar147&theme=dark" />
 </p>
