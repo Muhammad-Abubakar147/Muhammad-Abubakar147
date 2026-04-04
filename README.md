@@ -5,7 +5,7 @@
 
 ---
 
-# 👋 Hi, I'm Muhammad Abubakar (GEN
+# 👋 Hi, I'm Muhammad Abubakar 
 
 ### 🧬 Zoologist | 🤖 AI & ML Enthusiast | 💻 Developer
 
