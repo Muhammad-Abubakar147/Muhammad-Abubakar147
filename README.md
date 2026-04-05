@@ -10,13 +10,12 @@
 ### 🧬 Zoologist | 🤖 AI & ML Enthusiast | 💻 Developer
 
 I am a passionate Zoologist with a strong interest in **Artificial Intelligence, Machine Learning, and Deep Learning** .
-
 I combine my Biological knowledge with modern technology to explore intelligent solutions
-I have experience in **web development and data science**, and I continuously learn and build innovative projects using AI tools and programming ...
+I have experience in **web development and data science**, and I continuously learn and build innovative projects using AI tools and programming .
 
 ---
 # 🧠 My Skills Set
-Some skills and tools which iam using ..
+Some skills and tools which iam on working.
 <table align="center">
 <tr>
 
