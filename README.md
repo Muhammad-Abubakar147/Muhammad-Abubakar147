@@ -50,7 +50,9 @@ Some skills and tools which iam on working.
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br>Pandas
 </td>
-![Grok Nano](https://skillicons.dev/icons?i=grok)
+</td> align="center">
+<td align="center"><img src="https://skillicons.dev/icons?i=ai" width="70" height="70"/><br><strong>Gamma</strong></td>
+</td>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/><br>Matplotlib
 </td>
