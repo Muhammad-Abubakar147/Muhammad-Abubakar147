@@ -15,7 +15,7 @@ I have experience in **web development and data science**, and I continuously le
 
 ---
 # 🧠 My Skills Set
-Some skills and tools which iam on working.
+Technologies and tools I work with
 <table align="center">
 <tr>
 
