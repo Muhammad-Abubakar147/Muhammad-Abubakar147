@@ -139,7 +139,7 @@ Technologies and tools I work with
 
 </table>
 
-# 🔗Connect with me..
+# 🔗Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
