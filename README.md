@@ -139,7 +139,7 @@ Technologies and tools I work with
 
 </table>
 
-# 🔗Connect with me
+##🔗Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
@@ -154,9 +154,18 @@ Technologies and tools I work with
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+# 🏆 My Achievements
+
+Here are some of the certifications and achievements I have earned:
+
+### 2. Harvard CS50x Puzzle Day 2026  
+🧩 **Harvard CS50x Puzzle Day (2026)**  🥇 1st place, 10/10 puzzles
+
+[🔗 Certificate](https://cs50.harvard.edu/certificates/511c117b-3c13-4b8d-85a1-1cd97ecf0233)
+
 
 <!-- 🔥 PROFILE HEADER -->
-# github Stats📈..
+## github Stats📈..
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abubakar147&theme=dark" />
 </p>
