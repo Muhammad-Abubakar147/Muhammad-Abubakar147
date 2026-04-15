@@ -139,7 +139,8 @@ Technologies and tools I work with
 
 </table>
 
-##🔗Connect with me
+<H2>Connect with me</H2>
+<h6>Feel free to ask me anything through my these links</h6>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
@@ -154,7 +155,6 @@ Technologies and tools I work with
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<a href="https://github.com/arhamansari11/">
 <h1 align="left"> <a href="https://github.com/arhamansari11/"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px"> </a> Highlights of my Achievements </h1>
 </a>
 
