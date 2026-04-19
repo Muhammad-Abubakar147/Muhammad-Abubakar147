@@ -143,7 +143,7 @@ Technologies and tools I work with
 <h6>Feel free to ask me anything through my these links</h6>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/muhammadabubakar147/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
