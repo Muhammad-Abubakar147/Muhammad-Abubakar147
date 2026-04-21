@@ -177,3 +177,11 @@ Here are some of the certifications and achievements I have earned:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Abubakar147&theme=github_dark" />
 </p>
+
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/Muhammad-Abubakar147">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhammad-Abubakar147&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Abubakar147&layout=compact&langs_count=8&theme=algolia"/>
+</a>
