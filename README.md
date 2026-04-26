@@ -169,7 +169,7 @@ Here are some of the certifications and achievements I have earned:
 
 
 <!-- 🔥 PROFILE HEADER -->
-## Github Stats📈..
+## Github Stats📈
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abubakar147&theme=dark" />
 </p>
