@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Muhammad Abubakar
 
-### 🧬 Zoologist | 🤖 AI & ML Enthusiast | 💻 Developer
+### 🧬 Zoologist | 🤖 AI & ML Enthusiast | 💻 Developer |
 
 I am a passionate Zoologist with a strong interest in **Artificial Intelligence, Machine Learning, and Deep Learning** .
 I combine my Biological knowledge with modern technology to explore intelligent solutions
