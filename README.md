@@ -40,6 +40,10 @@ Technologies and tools I work with
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
+  <a href="https://www.instagram.com/itx_abubakar7860/">
+    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram" />
+  </a>
+
   <a href="mailto:brandmirza702@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
