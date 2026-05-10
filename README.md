@@ -14,6 +14,13 @@ I combine my Biological knowledge with modern technology to explore intelligent 
 I have experience in **web development and data science**, and I continuously learn and build innovative projects using AI tools and programming .I am highly motivated to grow in the field of AI and aim to solve real-world problems through data-driven approaches. I believe in continuous learning, creativity, and using technology to make a meaningful impact
 
 ---
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=I+am+a+Zoologist+%7C+Python+Developer;I+am+a+Machine+Learning+%26+Deep+Learning+Enthusiast;I+am+a+Generative+AI+Explorer+%7C+AI+Developer;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn)](https://git.io/typing-svg)
+
+</div>
+
+---
 # 🧠 My Skills Set
 Technologies and tools I work with
 <p align="left">
