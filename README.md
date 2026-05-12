@@ -71,7 +71,6 @@ Here are some of the certifications and achievements I have earned. :
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Abubakar147&theme=github_dark" />
 </p>
 
-
 <div align="center">
 
 *⭐ If you find my work interesting, please star my repositories!*
