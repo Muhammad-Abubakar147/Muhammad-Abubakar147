@@ -24,7 +24,7 @@ I have experience in **web development and data science**, and I continuously le
 # 🧠 My Skills Set
 Technologies and tools I work with
 <p align="left">
- <img src=https://skills.syvixor.com/api/icons?perline=15&i=grok,numpy,pandas,html,kaggle,css,python,matplotlib,seaborn,scikitlearn,pycharm,canva,csv,visualstudiocode,googlecolaboratory,chatgpt,git,github,deepseek,notion,capcut,adobephotoshop,jupyter,tensorflow,pytorch,gmail,figma,leetcode,netlify,discord,perplexity,anaconda,claudeai,googlegemini />
+ <img src=https://skills.syvixor.com/api/icons?perline=15&i=grok,numpy,pandas,html,kaggle,css,python,matplotlib,seaborn,googleantigravity,scikitlearn,pycharm,canva,csv,visualstudiocode,googlecolaboratory,chatgpt,git,github,deepseek,notion,capcut,adobephotoshop,jupyter,tensorflow,pytorch,gmail,figma,leetcode,netlify,discord,perplexity,anaconda,claudeai,googlegemini />
 </p>
 </a>
 
