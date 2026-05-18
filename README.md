@@ -67,6 +67,16 @@ Here are some of the certifications and achievements I have earned. :
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abubakar147&theme=dark" />
 </p>
 
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+
+[![Abubakar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Abubakar147=tokyo-night&hide_border=true&area=true&area_color=38BDF8&color=38BDF8&line=38BDF8&point=ffffff&custom_title=Abubakar%27s%20Contribution%20Activity)](https://github.com/Muhammad-Abubakar147)
+
+</div>
+
+---
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Abubakar147&theme=github_dark" />
 </p>
