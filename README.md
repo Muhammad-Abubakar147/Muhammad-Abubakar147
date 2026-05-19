@@ -60,6 +60,12 @@ Here are some of the certifications and achievements I have earned. :
 
 [🔗 Certificate](https://cs50.harvard.edu/certificates/511c117b-3c13-4b8d-85a1-1cd97ecf0233)
 
+### . Sylor Academy 2026  
+🧩 **Certifiend from Sylor academy**  🥇 Completed Python with 88.94%
+
+[🔗 Certificate](https://drive.google.com/drive/folders/1t8dSOPFNjkTJcfaj1d5ynzmKRQMhDekp?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+
+
 
 <!-- 🔥 PROFILE HEADER -->
 ## Github Stats📈
