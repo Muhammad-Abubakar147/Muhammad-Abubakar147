@@ -3,8 +3,6 @@
 </a>
 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/Muhammad-Abubakar147.svg)](https://ghcommits.com/u/Muhammad-Abubakar147)
-
-<a href="https://ghcommits.com/u/Muhammad-Abubakar147"><img src="https://ghcommits.com/api/badge/Muhammad-Abubakar147.svg" alt="GitHub Commits Badge" /></a>
 ---
 
 # 👋 Hi, I'm Muhammad Abubakar
