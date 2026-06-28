@@ -2,7 +2,7 @@
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Muhammad-Abubakar147&data=followers,repositories,stars,commits&theme=rgb">
 </a>
 
-
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/Muhammad-Abubakar147.svg)](https://ghcommits.com/u/Muhammad-Abubakar147)
 ---
 
 # 👋 Hi, I'm Muhammad Abubakar
