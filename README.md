@@ -54,6 +54,8 @@ Technologies and tools I work with
 </a>
 
 Here are some of the certifications and achievements I have earned. :
+- 🌟 **Notable Achievements** (Key stats & recognitions across platforms)  
+
 
 ### 1. Harvard CS50x Puzzle Day 2026  
 🧩 **Harvard CS50x Puzzle Day (2026)**  🥇 1st place, 10/10 puzzles
