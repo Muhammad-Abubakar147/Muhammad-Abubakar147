@@ -54,7 +54,9 @@ Technologies and tools I work with
 </a>
 
 Here are some of the certifications and achievements I have earned. :
-- 🌟 **Notable Achievements** (Key stats & recognitions across platforms)  
+- 🌟 **Notable Achievements** (Key stats & recognitions across platforms)
+-  📈 **GitHub**: Ranked **[87th](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)**on Github commits leaderboard among the most active contributors in Pakistan with **[87 Days](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** of coding consistency.
+
 
 
 ### 1. Harvard CS50x Puzzle Day 2026  
