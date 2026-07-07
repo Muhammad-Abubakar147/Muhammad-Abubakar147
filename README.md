@@ -61,7 +61,7 @@ Here are some of the certifications and achievements I have earned. :
 
 - 🌟 **Project 1**: Face Eyes and Smile detction with **Open Cv** [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
 
-<br>
+<hr>
 
 
 ### 1. Harvard CS50x Puzzle Day 2026  
