@@ -59,10 +59,10 @@ Here are some of the certifications and achievements I have earned. :
 
 ## Projects 
 
-- 🌟 **Project 1**: Face Eyes and Smile detction with **Open Cv** [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
-- 🌟 **Project 2**: **Calculator** with **Python(** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Python%20Calculator)
+- - 🌟 **Project 1**: Face Eyes and Smile detction with **Open Cv** [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
+- - 🌟 **Project 2**: **Calculator** with **Python(** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Python%20Calculator)
 - - 🌟 **Project 3**: **Restaurant Manager App** with **python** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Restaurant%20Manager%20App/Restaurant-Manager-App.py)
-
+- - 🌟 **Project 4**: **Student Manager App** with **Python** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Student%20Manager%20app/Student-manager-app.py)
 <hr>
 
 
