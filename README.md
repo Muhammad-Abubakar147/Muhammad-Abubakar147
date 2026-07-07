@@ -57,12 +57,12 @@ Here are some of the certifications and achievements I have earned. :
 - 🌟 **Notable Achievements** (Key stats & recognitions across platforms)
 -  📈 **GitHub**: Ranked **[87th](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** on Github commits leaderboard among the most active contributors in Pakistan with **[87 Days](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** of coding consistency.
 
-## Projects 
+## Projects 💻
 
-- - 🌟 **Project 1**: Face Eyes and Smile detction with **Open Cv** [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
-- - 🌟 **Project 2**: **Calculator** with **Python(** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Python%20Calculator)
-- - 🌟 **Project 3**: **Restaurant Manager App** with **python** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Restaurant%20Manager%20App/Restaurant-Manager-App.py)
-- - 🌟 **Project 4**: **Student Manager App** with **Python** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Student%20Manager%20app/Student-manager-app.py)
+- 🌟 **Project 1**: Face Eyes and Smile detction with **Open Cv** [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
+- 🌟 **Project 2**: **Calculator** with **Python(** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Python%20Calculator)
+- 🌟 **Project 3**: **Restaurant Manager App** with **python** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Restaurant%20Manager%20App/Restaurant-Manager-App.py)
+- 🌟 **Project 4**: **Student Manager App** with **Python** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Student%20Manager%20app/Student-manager-app.py)
 <hr>
 
 
