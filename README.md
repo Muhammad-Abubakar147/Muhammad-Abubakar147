@@ -57,6 +57,11 @@ Here are some of the certifications and achievements I have earned. :
 - 🌟 **Notable Achievements** (Key stats & recognitions across platforms)
 -  📈 **GitHub**: Ranked **[87th](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** on Github commits leaderboard among the most active contributors in Pakistan with **[87 Days](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** of coding consistency.
 
+## Projects 
+
+- 🌟 **Project 1** Face Eyes and Smile detction with Open Cv [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
+
+
 
 
 ### 1. Harvard CS50x Puzzle Day 2026  
