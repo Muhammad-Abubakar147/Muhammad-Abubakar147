@@ -59,7 +59,7 @@ Here are some of the certifications and achievements I have earned. :
 
 ## Projects 
 
-- 🌟 **Project 1** Face Eyes and Smile detction with Open Cv [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
+- 🌟 **Project 1**: Face Eyes and Smile detction with **Open Cv** [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
 
 
 
