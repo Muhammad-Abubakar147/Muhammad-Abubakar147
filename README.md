@@ -64,7 +64,7 @@ Here are some of the certifications and achievements I have earned. :
 - 🌟 **Project 3**:A Python application designed to **manage restaurant operations**, including menu handling, order processing, billing, and customer management. [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Restaurant%20Manager%20App/Restaurant-Manager-App.py)
 - 🌟 **Project 4**:A **Python-based** application for **managing student records**, allowing users to add, update, search, and delete student information efficiently.[Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Student%20Manager%20app/Student-manager-app.py)
 <hr>
-
+## International Certificates🎖️
 
 ### 1. Harvard CS50x Puzzle Day 2026  
 🧩 **Harvard CS50x Puzzle Day (2026)**  🥇 1st place, 10/10 puzzles
