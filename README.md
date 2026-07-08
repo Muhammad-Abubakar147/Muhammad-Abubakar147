@@ -59,10 +59,10 @@ Here are some of the certifications and achievements I have earned. :
 
 ## Projects 💻
 
-- 🌟 **Project 1**: Face Eyes and Smile detction with **Open Cv** [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
-- 🌟 **Project 2**: **Calculator** with **Python(** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Python%20Calculator)
-- 🌟 **Project 3**: **Restaurant Manager App** with **python** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Restaurant%20Manager%20App/Restaurant-Manager-App.py)
-- 🌟 **Project 4**: **Student Manager App** with **Python** [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Student%20Manager%20app/Student-manager-app.py)
+- 🌟 **Project 1**: A real-time computer vision application that detects **faces, eyes, and smiles** using **OpenCV** and a webcam for live detection. [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
+- 🌟 **Project 2**: A command-line **calculator** built with **Python** that performs essential arithmetic operations with a simple, clean, and beginner-friendly interface.[Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Python%20Calculator)
+- 🌟 **Project 3**:A Python application designed to **manage restaurant operations**, including menu handling, order processing, billing, and customer management. [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Restaurant%20Manager%20App/Restaurant-Manager-App.py)
+- 🌟 **Project 4**:A **Python-based** application for **managing student records**, allowing users to add, update, search, and delete student information efficiently.[Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Student%20Manager%20app/Student-manager-app.py)
 <hr>
 
 
