@@ -57,8 +57,6 @@ Here are some of the certifications and achievements I have earned. :
 - 🌟 **Notable Achievements** (Key stats & recognitions across platforms)
 -  📈 **GitHub**: Ranked **[87th](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** on Github commits leaderboard among the most active contributors in Pakistan with **[87 Days](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** of coding consistency.
 
-
-<hr>
 <h2>International Certificates🎖️</h2>
 
 🧩 **Harvard CS50x Puzzle Day (2026)**  🥇 1st place, 10/10 puzzles [🔗 Certificate](https://cs50.harvard.edu/certificates/511c117b-3c13-4b8d-85a1-1cd97ecf0233)
@@ -66,7 +64,7 @@ Here are some of the certifications and achievements I have earned. :
 🧩 **Certified from Sylor academy** Completed Python with 88.94% [🔗 Certificate](https://drive.google.com/drive/folders/1t8dSOPFNjkTJcfaj1d5ynzmKRQMhDekp?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
 <HR>
 
-## MY Projects 💻
+# MY Projects 💻
 
 - 🌟 **Project 1**: A real-time computer vision application that detects **faces, eyes, and smiles** using **OpenCV** and a webcam for live detection. [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
 - 🌟 **Project 2**: A command-line **calculator** built with **Python** that performs essential arithmetic operations with a simple, clean, and beginner-friendly interface.[Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Python%20Calculator)
