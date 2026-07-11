@@ -56,6 +56,7 @@ Technologies and tools I work with
 Here are some of the certifications and achievements I have earned. :
 - 🌟 **Notable Achievements** (Key stats & recognitions across platforms)
 -  📈 **GitHub**: Ranked **[87th](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** on Github commits leaderboard among the most active contributors in Pakistan with **[87Days](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** of coding consistency.
+- **GitHub** : **1150+** Contributions with **[100 Days]**(https://www.linkedin.com/feed/update/urn:li:activity:7481736545532694528/) Consistency
 
 <h2>International Certificates🎖️</h2>
 
