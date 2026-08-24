@@ -4,7 +4,7 @@
 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/Muhammad-Abubakar147.svg)](https://ghcommits.com/u/Muhammad-Abubakar147)
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Abubakar147&color=0f172a&style=flat-square&label=Profile+Views)
 # 👋 Hi, I'm Muhammad Abubakar
 
 ### 🧬 Zoologist | 🤖 AI & ML Enthusiast | 💻 Developer |
