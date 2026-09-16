@@ -47,6 +47,9 @@ Technologies and tools I work with
   <a href="mailto:brandmirza702@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://muhammad-abubakar147.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
 <a href="https://github.com/Muhammad-Abubakar147">
