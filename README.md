@@ -73,6 +73,7 @@ Here are some of the certifications and achievements I have earned. :
 - 🌟 **Project 4**: A **Python-based** application for **managing student records**, allowing users to add, update, search, and delete student information efficiently.[Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Student%20Manager%20app/Student-manager-app.py)
 - 🌟 **Project 5**: A modern, responsive **personal portfolio website** showcasing my skills, projects, certifications, education, and achievements with a clean design and smooth user experience.[Check Here](https://muhammad-abubakar147.netlify.app/)
 - 🌟 **Project 6**:Analyzed the **Zoo Animal Classification** dataset using Pandas to uncover patterns, perform data cleaning, and generate meaningful insights. [Check Here](https://github.com/Muhammad-Abubakar147/Zoo-Animal-Classification-Data-Analysis)
+- ⭐ **Project 7:** A modern and responsive e-commerce website for **Ibbi's Collection** featuring product listings, add-to-cart functionality, elegant UI, and a smooth shopping experience. [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Ecommerce%20Website)
 
 <!-- 🔥 PROFILE HEADER -->
 ## Github Stats📈
