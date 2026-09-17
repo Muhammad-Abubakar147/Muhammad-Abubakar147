@@ -36,10 +36,6 @@ Technologies and tools I work with
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://github.com/Muhammad-Abubakar147">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-
   <a href="https://www.instagram.com/itx_abubakar7860/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram" />
   </a>
