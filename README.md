@@ -73,7 +73,7 @@ Here are some of the certifications and achievements I have earned. :
 - 🌟 **Project 5**: A modern, responsive **personal portfolio website** showcasing my skills, projects, certifications, education, and achievements with a clean design and smooth user experience.[Check Here](https://muhammad-abubakar147.netlify.app/)
 - 🌟 **Project 6**:Analyzed the **Zoo Animal Classification** dataset using Pandas to uncover patterns, perform data cleaning, and generate meaningful insights. [Check Here](https://github.com/Muhammad-Abubakar147/Zoo-Animal-Classification-Data-Analysis)
 - ⭐ **Project 7:** A modern and responsive e-commerce website for **Ibbi's Collection** featuring product listings, add-to-cart functionality, elegant UI, and a smooth shopping experience. **Check Here** [1](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Ecommerce%20Website) **and** [2](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Ibbi's%20Collection)
-)
+
 - ⭐ **Project 8:** An interactive and beautifully designed **Asma Ul Husna** website featuring the 99 Names of Allah with Arabic names, meanings, and a clean, elegant, and responsive user interface. [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Allah%2099%20Names)
 <!-- 🔥 PROFILE HEADER -->
 ## Github Stats📈
