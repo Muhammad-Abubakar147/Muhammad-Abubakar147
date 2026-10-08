@@ -62,7 +62,7 @@ Here are some of the certifications and achievements I have earned. :
 
 🧩 **Harvard CS50x Puzzle Day (2026)**  🥇 1st place, 10/10 puzzles [🔗 Certificate](https://cs50.harvard.edu/certificates/511c117b-3c13-4b8d-85a1-1cd97ecf0233)
 
-🧩 **Certified from Sylor academy** Completed Python with 88.94% [🔗 Certificate](https://drive.google.com/drive/folders/1t8dSOPFNjkTJcfaj1d5ynzmKRQMhDekp?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+🧩 **Certified from Sylor academy** Completed Python with 88.94% [🔗 Certificate](https://github.com/Muhammad-Abubakar147/My-Achievements/blob/main/Sylor%20Acdemy%20Certificate/Sylor%20Academy%20Certificate.pdf)
 <HR>
 
 # MY Projects 💻
