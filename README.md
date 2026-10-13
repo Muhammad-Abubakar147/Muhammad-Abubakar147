@@ -65,6 +65,30 @@ Here are some of the certifications and achievements I have earned. :
 🧩 **Certified from Sylor academy** Completed Python with 88.94% [🔗 Certificate](https://github.com/Muhammad-Abubakar147/My-Achievements/blob/main/Sylor%20Acdemy%20Certificate/Sylor%20Academy%20Certificate.pdf)
 <HR>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🛍️ **Ibbi's Collection** | 👁️ **Face Detection** | 🐾 **Zoo Classification** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> |
+| A modern e-commerce website built with HTML, CSS & JavaScript. | Real-time face, eyes & smile detection using OpenCV. | Animal data analysis and classification project using Python. |
+| [👀 View Project](PROJECT_LINK_1) | [👀 View Project](PROJECT_LINK_2) | [👀 View Project](PROJECT_LINK_3) |
+
+| 🤖 **Machine Learning** | 📊 **Data Analysis** | 🐍 **Python Project** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> |
+| Machine learning experiments covering preprocessing and model building. | Data exploration and visualization using Pandas, NumPy & Matplotlib. | Python-based project focused on programming and problem solving. |
+| [👀 View Project](PROJECT_LINK_4) | [👀 View Project](PROJECT_LINK_5) | [👀 View Project](PROJECT_LINK_6) |
+
+| 🎯 **Computer Vision** | 🌐 **Portfolio Website** | 🧠 **AI / ML Project** |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> | <img src="https://github.com/Muhammad-Abubakar147/Mini-Project/blob/main/Ibbi's%20Collection/Screenshots/Screenshot%20(611).png" width="300"> |
+| Computer vision project using OpenCV for real-world visual tasks. | Personal developer portfolio showcasing skills, projects & achievements. | AI/ML project exploring intelligent solutions with Python. |
+| [👀 View Project](PROJECT_LINK_7) | [👀 View Project](PROJECT_LINK_8) | [👀 View Project](PROJECT_LINK_9) |
+
+</div>
+
 <!--# MY Projects 💻
 
 - 🌟 **Project 1**: A real-time computer vision application that detects **faces, eyes, and smiles** using **OpenCV** and a webcam for live detection. [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
