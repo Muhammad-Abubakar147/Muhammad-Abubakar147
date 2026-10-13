@@ -65,7 +65,7 @@ Here are some of the certifications and achievements I have earned. :
 🧩 **Certified from Sylor academy** Completed Python with 88.94% [🔗 Certificate](https://github.com/Muhammad-Abubakar147/My-Achievements/blob/main/Sylor%20Acdemy%20Certificate/Sylor%20Academy%20Certificate.pdf)
 <HR>
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects
 
 <div align="center">
 
@@ -87,9 +87,8 @@ Here are some of the certifications and achievements I have earned. :
 | Computer vision project using OpenCV for real-world visual tasks. | Personal developer portfolio showcasing skills, projects & achievements. | AI/ML project exploring intelligent solutions with Python. |
 | [👀 View Project](PROJECT_LINK_7) | [👀 View Project](PROJECT_LINK_8) | [👀 View Project](PROJECT_LINK_9) |
 
-</div>
-
-<!--# MY Projects 💻
+</div> -->
+# MY Projects 💻
 
 - 🌟 **Project 1**: A real-time computer vision application that detects **faces, eyes, and smiles** using **OpenCV** and a webcam for live detection. [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
 - 🌟 **Project 2**: A command-line **calculator** built with **Python** that performs essential arithmetic operations with a simple, clean, and beginner-friendly interface.[Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Python%20Calculator)
@@ -100,7 +99,7 @@ Here are some of the certifications and achievements I have earned. :
 - ⭐ **Project 7:** A modern and responsive e-commerce website for **Ibbi's Collection** featuring product listings, add-to-cart functionality, elegant UI, and a smooth shopping experience. **Check Here** [1](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Ecommerce%20Website) **and** [2](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Ibbi's%20Collection)
 
 - ⭐ **Project 8:** An interactive and beautifully designed **Asma Ul Husna** website featuring the 99 Names of Allah with Arabic names, meanings, and a clean, elegant, and responsive user interface. [Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Allah%2099%20Names)
-<!-- 🔥 PROFILE HEADER -->
+<!-- 🔥 PROFILE HEADER-->
 ## Github Stats📈
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abubakar147&theme=dark" />
