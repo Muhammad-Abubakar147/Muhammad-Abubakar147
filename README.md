@@ -65,7 +65,7 @@ Here are some of the certifications and achievements I have earned. :
 🧩 **Certified from Sylor academy** Completed Python with 88.94% [🔗 Certificate](https://github.com/Muhammad-Abubakar147/My-Achievements/blob/main/Sylor%20Acdemy%20Certificate/Sylor%20Academy%20Certificate.pdf)
 <HR>
 
-# MY Projects 💻
+<!--# MY Projects 💻
 
 - 🌟 **Project 1**: A real-time computer vision application that detects **faces, eyes, and smiles** using **OpenCV** and a webcam for live detection. [Check Here](https://github.com/Muhammad-Abubakar147/Open-Cv/blob/main/Project%201/Face%20Eye%20Smile%20detection.py)
 - 🌟 **Project 2**: A command-line **calculator** built with **Python** that performs essential arithmetic operations with a simple, clean, and beginner-friendly interface.[Check Here](https://github.com/Muhammad-Abubakar147/Mini-Project/tree/main/Python%20Calculator)
