@@ -57,6 +57,7 @@ Here are some of the certifications and achievements I have earned. :
 - **@[GitHub](https://github.com/Muhammad-Abubakar147)** : Ranked **[87th](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** on Github commits leaderboard among the most active contributors in Pakistan with **[87Days](https://www.linkedin.com/feed/update/urn:li:activity:7476954991220584448/)** of coding consistency.
 - **@[GitHub](https://github.com/Muhammad-Abubakar147)** : **1150+** Contributions with **[100 Days](https://www.linkedin.com/feed/update/urn:li:activity:7481736545532694528/) Consistency**
 -  **@[Code in Place](https://codeinplace.stanford.edu/)** : Selected as a **Student** for [Python](https://github.com/Muhammad-Abubakar147/My-Achievements/blob/main/Standford%20University%20Student/CIP%20Python%20Student.png) and [Probability of Ai](https://github.com/Muhammad-Abubakar147/My-Achievements/blob/main/Standford%20University%20Student/CIP%20Probability%20of%20Ai.png) gaining hands-on experience in programming, problem-solving, and AI concepts.
+- **@[GitHub](https://github.com/Muhammad-Abubakar147)** : **200 Days** Streak on Github with  **[200 Days](https://www.linkedin.com/feed/update/urn:li:activity:7517879529911238656/) Coding Consistency**
 
 <h2>International Certificates🎖️</h2>
 
