@@ -65,7 +65,8 @@ Here are some of the certifications and achievements I have earned. :
 
 🧩 **Certified from Sylor academy** Completed Python with 88.94% [🔗 Certificate](https://github.com/Muhammad-Abubakar147/My-Achievements/blob/main/Sylor%20Acdemy%20Certificate/Sylor%20Academy%20Certificate.pdf)
 
-🧩 **Stanford University – Code in Place X (2026)** 🏅 Successfully Completed Python Programming Course 🔗 [Certificate](https://github.com/Muhammad-Abubakar147/My-Achievements/blob/main/Code%20in%20Place%20X%20Certificate/Muhammad%20Abubakar%2C%20Code%20in%20Place%20X%20Certificate%20of%20Completion.pdf)[Linekdin](https://www.linkedin.com/feed/update/urn:li:activity:7529771901406285824/)
+🧩 **Stanford University – Code in Place X (2026)** 🏅 Successfully Completed Python Programming Course 🔗 [Certificate](https://github.com/Muhammad-Abubakar147/My-Achievements/blob/main/Code%20in%20Place%20X%20Certificate/Muhammad%20Abubakar%2C%20Code%20in%20Place%20X%20Certificate%20of%20Completion.pdf)
+[Linekdin](https://www.linkedin.com/feed/update/urn:li:activity:7529771901406285824/)
 <HR>
 
 <!--## 🚀 Featured Projects
