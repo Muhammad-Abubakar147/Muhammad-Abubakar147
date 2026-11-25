@@ -31,21 +31,9 @@ Technologies and tools I work with
 <H2>Connect with me</H2>
 <h6>Feel free to ask me anything through my these links</h6>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadabubakar147/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://www.instagram.com/itx_abubakar7860/">
-    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram" />
-  </a>
-
-  <a href="mailto:brandmirza702@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://muhammad-abubakar147.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+<p>
+  <a href="https://github.com/Muhammad-Abubakar147"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Muhammad--Abubakar147-181717?logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muhammadabubakar147/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-muhammadabubakar147-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
 
 <a href="https://github.com/Muhammad-Abubakar147">
