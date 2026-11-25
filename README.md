@@ -49,6 +49,10 @@ Technologies and tools I work with
   <a href="https://muhammad-abubakar147.netlify.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?logo=googlechrome&logoColor=white">
   </a>
+
+<a href="https://linktr.ee/muhammad_abubakar">
+  <img alt="Linktree" src="https://img.shields.io/badge/Linktree-Connect%20With%20Me-43E55E?logo=linktree&logoColor=white">
+</a>
 </p>
 
 
