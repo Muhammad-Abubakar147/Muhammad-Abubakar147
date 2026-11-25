@@ -32,6 +32,7 @@ Technologies and tools I work with
 <h6>Feel free to ask me anything through my these links</h6>
 
 
+
 <p>
   <a href="https://github.com/Muhammad-Abubakar147">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Muhammad--Abubakar147-181717?logo=github&logoColor=white">
@@ -45,7 +46,11 @@ Technologies and tools I work with
   <a href="https://www.instagram.com/abubakar._.mughal_/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-abubakar._.mughal_-E4405F?logo=instagram&logoColor=white">
   </a>
+  <a href="https://muhammad-abubakar147.netlify.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?logo=googlechrome&logoColor=white">
+  </a>
 </p>
+
 
 
 <a href="https://github.com/Muhammad-Abubakar147">
