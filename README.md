@@ -31,10 +31,22 @@ Technologies and tools I work with
 <H2>Connect with me</H2>
 <h6>Feel free to ask me anything through my these links</h6>
 
+
 <p>
-  <a href="https://github.com/Muhammad-Abubakar147"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Muhammad--Abubakar147-181717?logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/muhammadabubakar147/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-muhammadabubakar147-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Muhammad-Abubakar147">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Muhammad--Abubakar147-181717?logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadabubakar147/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-muhammadabubakar147-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:brandmirza702@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-brandmirza702%40gmail.com-D14836?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/abubakar._.mughal_/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-abubakar._.mughal_-E4405F?logo=instagram&logoColor=white">
+  </a>
 </p>
+
 
 <a href="https://github.com/Muhammad-Abubakar147">
 <h1 align="left"> <a https://github.com/Muhammad-Abubakar147><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px"> </a>Achievements & Community Contributions</h1>
